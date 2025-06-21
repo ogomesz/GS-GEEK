@@ -1,4 +1,4 @@
-GS Geek - Catálogo de Animes
+## GS Geek - Catálogo de Animes
 Bem-vindo ao GS Geek, um projeto de catálogo de animes desenvolvido para APS da disciplina de Desenvolvimento de Interfaces Web (DIW). Este projeto é uma aplicação web simples e interativa, construída utilizando HTML, CSS, JavaScript, Bootstrap e boas práticas de desenvolvimento.
 
 🎯 Objetivo
