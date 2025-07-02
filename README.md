@@ -11,3 +11,5 @@ Pesquisar por nome de anime;
 Acessar detalhes de cada anime;
 
 Explorar a interface de forma prática em diferentes dispositivos (mobile, tablet, desktop).
+
+- 🔹 [Catálogo de Animes / GS GEEK ](https://github.com/ogomesz/GS-GEEK.git) – HTML, CSS, JS, Bootstrap + CRUD & JSON Server
